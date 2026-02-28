@@ -58,3 +58,8 @@ RMSE: Measures the square root of the average squared prediction error
 MAE: Measures the average absolute difference between predicted and actual ratings
 
 These metrics provide insight into how well the model predicts user preferences.
+
+#OUTPUT:
+<img width="1622" height="475" alt="Image" src="https://github.com/user-attachments/assets/f169fc91-55a8-4d55-a36a-a1d4c25704ad" />
+<img width="1912" height="1020" alt="Image" src="https://github.com/user-attachments/assets/9ab68c3a-5ce0-49c0-a16e-100cf28d2156" />
+<img width="1910" height="1020" alt="Image" src="https://github.com/user-attachments/assets/89082cbb-b954-4c70-b656-e5edcf352114" />
